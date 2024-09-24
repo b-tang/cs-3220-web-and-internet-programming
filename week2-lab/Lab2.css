@@ -1,0 +1,65 @@
+.topnav {
+    background-color: black;
+}
+.MyTechNews {
+    color: white;
+    font-size: xx-large;
+}
+.HOME {
+    color: green;
+    font-size: x-large;
+}
+.ARTICLES {
+    color: green;
+    font-size: x-large;
+}
+.FORUMS {
+    color: green;
+    font-size: x-large;
+}
+.LOGIN {
+    color: orange;
+    font-size: x-large;
+}
+.Articles {
+    font-size: xx-large;
+}
+.Article2 {
+    font-size: x-large;
+}
+.firstarticle {
+    font-size: x-large;
+}
+.firstbreak{
+    color: gray;
+    font-size: larger;
+}
+.secondarticle {
+    font-size: x-large;
+}
+.secondbreak{
+    color: gray;
+    font-size: larger;
+}
+.thirdarticle {
+    font-size: x-large;
+}
+.thirdbreak{
+    color: gray;
+    font-size: large;
+}
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
+.footertext {
+    color: gray;
+    font-size: larger;
+}
+.largertexttable {
+    font-size: larger;
+}
+
+
