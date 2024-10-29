@@ -2,13 +2,6 @@
 
 This repository contains course assignments, projects, and notes developed for the **CS 3220** class, focusing on foundational and advanced topics in web development.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Technologies](#technologies)
-- [Projects](#projects)
-- [License](#license)
-
 ## Overview
 
 This course introduces concepts and techniques essential for modern web development. Topics covered include:
