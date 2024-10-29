@@ -36,4 +36,4 @@ Some key projects and assignments in this repository:
 
 ## License
 
-This project is for educational purposes.
+This repository is for educational purposes as part of the CS 3220 course at Cal State LA.
