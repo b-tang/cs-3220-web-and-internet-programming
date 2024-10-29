@@ -27,6 +27,16 @@ Some key projects and assignments in this repository:
 - **Dynamic Content with JavaScript**: Using JavaScript to fetch and render data asynchronously
 - **Full-Stack Web Applications**: Developing a complete web app with backend support
 
+## Setup
+
+To clone and run the code locally:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/b-tang/cs-3220-web-and-internet-programming.git
+   cd cs-3220-web-and-internet-programming
+   ```
+2. Follow instructions within each project folder for specific setup steps, such as installing dependencies or database configuration.
+
 ## License
 
 This repository is for educational purposes as part of the CS 3220 course at Cal State LA.
