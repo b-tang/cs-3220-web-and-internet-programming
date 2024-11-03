@@ -1,4 +1,0 @@
-1. do a top down design of the page, identify the big blocks
-2. once we have the blocks big or small we need to select them to apply to css
-- if something is unique in a page, give it an id and use id selector in css
-- if someting is not unique use tag or class selector
