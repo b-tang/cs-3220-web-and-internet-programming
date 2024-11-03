@@ -1,0 +1,128 @@
+.topnav {
+  background-color: black;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.MyTechNews {
+  color: white;
+  font-size: x-large;
+}
+.HOME:link {
+  color: green;
+  padding-left: 100px;
+  text-decoration: none;
+}
+.ARTICLES:link {
+  color: green;
+  padding-left: 20px;
+  text-decoration: none;
+}
+.FORUMS:link {
+  color: green;
+  padding-left: 20px;
+  text-decoration: none;
+}
+.LOGIN:link {
+  color: orange;
+  padding-left: 20px;
+  text-decoration: none;
+}
+.HOME:hover {
+  color: orange;
+}
+.ARTICLES:hover {
+  color: orange;
+}
+.FORUMS:hover {
+  color: orange;
+}
+.LOGIN:hover {
+  color: orange;
+}
+.Articles {
+  font-size: xx-large;
+}
+.Article2 {
+  font-size: x-large;
+}
+table,
+th,
+td {
+  width: 100%;
+  border-collapse: collapse;
+  border-bottom: 2px solid black;
+  padding-left: 10px;
+  padding-top: 20px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+}
+.firstarticle {
+  font-size: x-large;
+}
+.firstbreak {
+  color: gray;
+  font-size: larger;
+}
+.secondarticle {
+  font-size: x-large;
+}
+.secondbreak {
+  color: gray;
+  font-size: larger;
+}
+.thirdarticle {
+  font-size: x-large;
+}
+.thirdbreak {
+  color: gray;
+  font-size: large;
+}
+footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-size: larger;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  clear: both;
+}
+.footertext {
+  color: gray;
+  font-size: larger;
+}
+.largertexttable {
+  font-size: larger;
+}
+.home-body {
+  width: 1000px;
+  margin: 0 auto;
+}
+.story1 {
+  float: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.storytitle {
+  font-size: large;
+  font-weight: bold;
+  color: black;
+}
+.storytitle:hover {
+    color: orange;
+}
+.storyexcerpts {
+  color: gray;
+  font-size: small;
+}
+.storyauthor {
+  color: orange;
+}
+.storydate {
+  color: gray;
+}
+.story2 {
+  float: right;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
